@@ -10,8 +10,9 @@ import SwiftUI
 @main
 struct iDineApp: App {
     var body: some Scene {
+        var order = Order()
         WindowGroup {
-            ContentView()
+            ContentView().environmentObject(order)
         }
     }
 }

@@ -17,6 +17,7 @@
 		0EBA7F852532732800F3C47A /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBA7F822532732800F3C47A /* Menu.swift */; };
 		0EBA7F8B2532C1AD00F3C47A /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBA7F8A2532C1AD00F3C47A /* ItemRow.swift */; };
 		0EBA7F8E2533421F00F3C47A /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBA7F8D2533421F00F3C47A /* ItemDetail.swift */; };
+		0EBA7F9125335D8500F3C47A /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBA7F9025335D8500F3C47A /* OrderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		0EBA7F822532732800F3C47A /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		0EBA7F8A2532C1AD00F3C47A /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		0EBA7F8D2533421F00F3C47A /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
+		0EBA7F9025335D8500F3C47A /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				0EBA7F6F2532712C00F3C47A /* ContentView.swift */,
 				0EBA7F8A2532C1AD00F3C47A /* ItemRow.swift */,
 				0EBA7F8D2533421F00F3C47A /* ItemDetail.swift */,
+				0EBA7F9025335D8500F3C47A /* OrderView.swift */,
 				0EBA7F7D2532732100F3C47A /* Helper.swift */,
 				0EBA7F822532732800F3C47A /* Menu.swift */,
 				0EBA7F802532732800F3C47A /* Order.swift */,
@@ -158,6 +161,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0EBA7F8E2533421F00F3C47A /* ItemDetail.swift in Sources */,
+				0EBA7F9125335D8500F3C47A /* OrderView.swift in Sources */,
 				0EBA7F702532712C00F3C47A /* ContentView.swift in Sources */,
 				0EBA7F6E2532712C00F3C47A /* iDineApp.swift in Sources */,
 				0EBA7F832532732800F3C47A /* Order.swift in Sources */,
